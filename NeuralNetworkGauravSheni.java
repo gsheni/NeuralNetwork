@@ -1,6 +1,9 @@
+//Gaurav Sheni
+//November 25, 2014
+
 import java.util.Random; // for random generator
 import java.util.Scanner; // for debugging and getting input
-/*None of the optimizations in the book helped. 
+/*None of the optimizations helped. 
  * The only thing that helped was changing the range of the weights, the range of the thresholds and the learning rate.
  * Not even the hyperbolic tangent function helped. I changed the a and b values for that for a while, no value was optimal and in some situations, it made it worse.
  * I also tried to randomize the inputs. The error would decrease for a bit and then stop decreasing. It would jump back and forth.
