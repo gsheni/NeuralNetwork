@@ -13,7 +13,3 @@ The program runs until the sum of squares of the errors is less than 0.0001.
 
 The number of layers, nodes and input into the program for this particular problem are hard-coded. 
 
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gsheni/neuralnetwork/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
